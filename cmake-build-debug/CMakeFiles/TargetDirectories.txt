@@ -1,3 +1,0 @@
-C:/Users/rblas/CLionProjects/Nasa_log_parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/rblas/CLionProjects/Nasa_log_parser/cmake-build-debug/CMakeFiles/Nasa_log_parser.dir
-C:/Users/rblas/CLionProjects/Nasa_log_parser/cmake-build-debug/CMakeFiles/edit_cache.dir
